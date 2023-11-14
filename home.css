@@ -1,0 +1,51 @@
+header{
+    font-size:xx-large;
+    text-align: center;
+}
+.nav-container {  display: flex;  justify-content: center;}
+div{
+    text-align: center;
+}
+body{ 
+    background-color: lightslategray;
+    display: grid;
+    grid-template-rows: 22%;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p1{
+    color: white;
+    font-size:small;
+    font-style: oblique;
+}
+p2{
+    color: white;
+}
+nav{
+font-style: oblique;
+}
+p3{
+    font-size: large;
+}
+h2{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p3{
+    font-style:italic;
+}
+p5{
+    font-size: larger;
+font-style: oblique;
+}
+p8{
+    font-size:small;
+}
+.information{display: flex;  justify-content: center;
+
+}
